@@ -1,0 +1,386 @@
+@page {
+    margin-bottom: 5pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 5pt;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+
+.block {
+    display: block;
+    font-family: "STKaiti";
+    line-height: 1.5em;
+    margin-bottom: 1em;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 1em;
+    text-indent: 2em
+    }
+.calibre {
+    display: block;
+    font-family: "cnepub", serif;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    height: auto;
+    vertical-align: middle;
+    width: 690px
+    }
+.calibre2 {
+    height: auto;
+    vertical-align: middle;
+    width: 329px
+    }
+.calibre3 {
+    height: auto;
+    vertical-align: middle;
+    width: 352px
+    }
+.calibre4 {
+    height: auto;
+    vertical-align: middle;
+    width: 516px
+    }
+.calibre5 {
+    height: auto;
+    vertical-align: middle;
+    width: 410px
+    }
+.calibre6 {
+    height: auto;
+    vertical-align: middle;
+    width: 398px
+    }
+.calibre7 {
+    height: auto;
+    vertical-align: middle;
+    width: 420px
+    }
+.calibre8 {
+    height: auto;
+    vertical-align: middle;
+    width: 390px
+    }
+.calibre9 {
+    height: auto;
+    vertical-align: middle;
+    width: 446px
+    }
+.calibre10 {
+    height: auto;
+    vertical-align: middle;
+    width: 677px
+    }
+.calibre11 {
+    height: auto;
+    vertical-align: middle;
+    width: 586px
+    }
+.calibre12 {
+    height: auto;
+    vertical-align: middle;
+    width: 346px
+    }
+.calibre13 {
+    height: auto;
+    vertical-align: middle;
+    width: 370px
+    }
+.calibre14 {
+    height: auto;
+    vertical-align: middle;
+    width: 338px
+    }
+.calibre15 {
+    height: auto;
+    vertical-align: middle;
+    width: 399px
+    }
+.calibre16 {
+    height: auto;
+    vertical-align: middle;
+    width: 362px
+    }
+.calibre17 {
+    height: auto;
+    vertical-align: middle;
+    width: 448px
+    }
+.calibre18 {
+    height: auto;
+    vertical-align: middle;
+    width: 475px
+    }
+.calibre19 {
+    height: auto;
+    vertical-align: middle;
+    width: 610px
+    }
+.calibre20 {
+    height: auto;
+    vertical-align: middle;
+    width: 686px
+    }
+.calibre21 {
+    height: auto;
+    vertical-align: middle;
+    width: 697px
+    }
+.calibre22 {
+    height: auto;
+    vertical-align: middle;
+    width: 664px
+    }
+.calibre23 {
+    height: auto;
+    vertical-align: middle;
+    width: 407px
+    }
+.calibre24 {
+    height: auto;
+    vertical-align: middle;
+    width: 495px
+    }
+.calibre25 {
+    height: auto;
+    vertical-align: middle;
+    width: 658px
+    }
+.calibre26 {
+    height: auto;
+    vertical-align: middle;
+    width: 361px
+    }
+.calibre27 {
+    height: auto;
+    vertical-align: middle;
+    width: 400px
+    }
+.calibre28 {
+    height: auto;
+    vertical-align: middle;
+    width: 653px
+    }
+.calibre29 {
+    height: auto;
+    vertical-align: middle;
+    width: 468px
+    }
+.calibre30 {
+    height: auto;
+    vertical-align: middle;
+    width: 508px
+    }
+.calibre31 {
+    height: auto;
+    vertical-align: middle;
+    width: 742px
+    }
+.calibre32 {
+    height: auto;
+    vertical-align: middle;
+    width: 530px
+    }
+.calibre33 {
+    height: auto;
+    vertical-align: middle;
+    width: 542px
+    }
+.calibre34 {
+    height: auto;
+    vertical-align: middle;
+    width: 758px
+    }
+.calibre35 {
+    height: auto;
+    vertical-align: middle;
+    width: 754px
+    }
+.calibre36 {
+    height: auto;
+    vertical-align: middle;
+    width: 1420px
+    }
+.calibre37 {
+    display: block;
+    line-height: 1.5em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 2em
+    }
+.calibre38 {
+    height: auto;
+    vertical-align: middle;
+    width: 572px
+    }
+.calibre39 {
+    height: auto;
+    vertical-align: middle;
+    width: 1430px
+    }
+.calibre40 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre41 {
+    display: list-item
+    }
+.calibre42 {
+    display: block;
+    list-style-type: circle;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.calibre43 {
+    font-style: italic
+    }
+.calibre44 {
+    display: block;
+    font-family: "SimHei";
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    text-align: center
+    }
+.calibre45 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre46 {
+    border-bottom-color: currentColor;
+    border-bottom-style: inset;
+    border-bottom-width: 1px;
+    border-left-color: currentColor;
+    border-left-style: inset;
+    border-left-width: 1px;
+    border-right-color: currentColor;
+    border-right-style: inset;
+    border-right-width: 1px;
+    border-top-color: currentColor;
+    border-top-style: inset;
+    border-top-width: 1px;
+    color: gray;
+    display: block;
+    height: 2px;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em
+    }
+.calibre47 {
+    height: auto;
+    vertical-align: middle;
+    width: 71px
+    }
+.calibre48 {
+    display: block
+    }
+.calibre49 {
+    font-weight: bold
+    }
+.calibre50 {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center
+    }
+.calibre51 {
+    height: auto;
+    width: auto
+    }
+.center {
+    display: block;
+    line-height: 1.5em;
+    margin-bottom: 1em;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 1em;
+    text-align: center;
+    text-indent: 0
+    }
+.front {
+    display: block;
+    font-family: "SimHei";
+    font-size: 1.83333em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 2em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 3em;
+    text-align: center
+    }
+.img {
+    display: block;
+    font-family: "STKaiti";
+    font-size: 0.75em;
+    font-weight: bold;
+    line-height: 1.5em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center;
+    text-indent: 0
+    }
+.imz {
+    height: 96%;
+    text-align: center;
+    width: auto
+    }
+.lk {
+    display: block;
+    font-family: "STKaiti";
+    line-height: 1.5em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 2em;
+    margin-top: 1em;
+    text-align: right;
+    text-indent: 2em
+    }
+.note {
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.5em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-indent: 2em
+    }
+
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+
